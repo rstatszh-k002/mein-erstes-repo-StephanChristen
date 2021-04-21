@@ -40,3 +40,5 @@ vignettes/*.pdf
 
 # Ignoriere fogende Dateien
 *.csv
+*.jpg
+README.html
